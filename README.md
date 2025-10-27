@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi 👋
+my name is maryam kodondo.
+A data analysis.
+Turning data into decisions.
+Passionate about analytics, insights, and impact.
+Skilled in 💻Excel • 💻Power BI • 📊SQL • 🐍Python.
+Helping businesses and people see what numbers say.
 
-<!--
-**mimi561/mimi561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### welcome to my GitHub profile .
+i use this space to share my project, report and dashboard.
 
-Here are some ideas to get you started:
+### 📶My interest 
+Data cleaning and visualization 
+SQL and Excel analysis 
+Power BI dashboard 
+python for data analysis 
+machine Language 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📜sample project 
+{sales products Analysis using Excel}(#)
+{sales dashboard using power BI}(#)
+{Data cleaning with python and Excel}(#)
+
+### 🛂contact me 
+kodondomaryam@gmail.com 
 -->
